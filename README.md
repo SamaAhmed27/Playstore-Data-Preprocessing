@@ -1,6 +1,6 @@
 # Play Store Apps Data Cleaning & Analysis 📱🔧
 
-## Introduction 📊
+## Introduction⭐
 The Play Store hosts a wide range of applications, and the data associated with these apps offers significant potential for analysis. Developers and businesses can leverage this data to understand market trends, optimize their apps, and maximize user engagement.
 
 In this project, we perform data cleaning and preprocessing on the Play Store apps dataset. Our focus is to address missing values, handle outliers, and fix data inconsistencies, all while extracting valuable insights to better understand the app market.
