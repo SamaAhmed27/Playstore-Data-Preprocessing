@@ -37,6 +37,12 @@ In this project, we perform data cleaning and preprocessing on the Play Store ap
 - **Compatibility with Android Version 4.x** 📱: Determined how many apps are compatible with Android version 4.x.
 
 ---
+## Example Chart 📊
+
+Here is an example chart showing the top 10 apps:
+
+![Top 10 Apps](Top10Apps.png)
+---
 
 ## Technologies Used ⚙️
 - **Python**: For data analysis and manipulation.
