@@ -1,4 +1,4 @@
-# Play Store Apps Data Cleaning & Analysis 📱🔧
+# Play Store Apps Data Cleaning & Analysis 📱
 
 ## Introduction⭐
 The Play Store hosts a wide range of applications, and the data associated with these apps offers significant potential for analysis. Developers and businesses can leverage this data to understand market trends, optimize their apps, and maximize user engagement.
