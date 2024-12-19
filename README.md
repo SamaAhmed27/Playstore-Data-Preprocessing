@@ -45,7 +45,6 @@ Here is an example chart showing the top 10 apps:
 ---
 
 ## Technologies Used ⚙️
-- **Python**: For data analysis and manipulation.
 - **Pandas**: For data cleaning and preprocessing.📊
 - **Matplotlib**: For data visualization.📉
 - **NumPy**: For numerical operations.
